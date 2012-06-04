@@ -1,0 +1,28 @@
+Version 1.0.0:
+- Initial release.
+
+Version 1.0.1:
+- Stongbow: -1 damage melee, +1 damage ranged.
+- Greatbow: -1 damage melee, +1 HP.
+- Flagbearer: -1 MP.
+- Captain: -1 MP.
+- Ancient Banner: +1 MP, removed steadfast. +6 HP, added 10% resistance to blade, pierce and impact.
+
+- Added the Ancient Banner as an advancement of the Captain.
+- Added a macro for easier use in a campaign.
+
+Version 1.0.2:
+- Scout: +3 HP, -8 XP.
+- Eagle Rider: -2 HP.
+- Eagle Master: -2 HP.
+- Lancer: -4 cost, +2 HP.
+- Silver Shield: +8 HP.
+- Shield Guard: -3 HP, added the protection ability.
+- Guard: +2 HP.
+- Halved the resistances of the Guard and Shield Guard, but instead gave them steadfast.
+
+- Removed Peasant from recruit list.
+- Fixed some inconsistency in the Warlock's description.
+- Added a description for the Flagbearer.
+- Re-added an old ability: Protection.
+- Made the faction translatable.
