@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-06-04 08:58-0400\n"
+"PO-Revision-Date: 2012-06-04 08:58-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [era]: id=TA
+#: The_Aragwaithi/_main.cfg:20
+msgid "Default + Aragwaithi"
+msgstr ""
+
+#. [multiplayer_side]: id=Aragwaithi, type=Aragwaith Flagbearer
+#: The_Aragwaithi/faction.cfg:4
+msgid "Aragwaithi"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: The_Aragwaithi/race.cfg:5
+msgid "race^Aragwaith"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: The_Aragwaithi/race.cfg:6
+msgid "race+female^Aragwaith"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: The_Aragwaithi/race.cfg:7
+msgid "race^Aragwaithi"
+msgstr ""
+
+#. [race]: id=aragwaith
+#: The_Aragwaithi/race.cfg:11
+msgid ""
+"During most of the Golden Age, the humans who inhabited the Great Continent "
+"were mostly Wesnothians, divided across various territories such as the "
+"Northlands, Elensefar and the kingdom of Wesnoth itself. However, there was "
+"once a time of great strife during which a new race of humans started to "
+"appear from nowhere. They were the 'Aragwaithi', which meant 'noble' in "
+"their native language.\n"
+"\n"
+"It has been since then rumored that they came from the Vast Sea to settle in "
+"Wesnoth. They mostly lived as mercenaries in that time, until the Fall. "
+"After that, they supposedly moved to the northmost lands of the Continent, "
+"were the sands could not reach, and the green could survive.\n"
+"\n"
+"Albeit being humans, many of their customs and racial features are "
+"incredibly different to the standards, to the point it puts them close to "
+"elves in terms of their dexterity with bows. Their wisemen have a mastery of "
+"magic not to be underestimated in the battlefield, for it has surprised and "
+"overseded the best magi often."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Ancient_Banner.cfg:5
+msgid "Ancient Banner"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Ancient_Banner.cfg:29
+msgid "TODO"
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Aragwaithi/units/Aragwaith_Ancient_Banner.cfg:42
+msgid "scythe"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Archer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Archer.cfg:5
+msgid "Archer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Archer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Archer.cfg:19
+msgid ""
+"The Aragwaithi are a noble people, fragile in body, but their training makes "
+"them among the more deadly denizens of this world. Their archers are no "
+"exception. Their skills with a bow are comparable to those of some elves, "
+"and they are remarkably quick with their daggers."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Captain, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Captain.cfg:5
+msgid "Captain"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: The_Aragwaithi/units/Aragwaith_Captain.cfg:31
+#: The_Aragwaithi/units/Aragwaith_Captain.cfg:40
+#: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:31
+#: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:40
+#: The_Aragwaithi/units/Aragwaith_Slayer.cfg:31
+msgid "glaive"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:5
+msgid "Eagle Master"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:20
+msgid ""
+"With experience, Eagle riders become more skilled and the relation with "
+"their winged friend become so strong that they act as one. As Eagle masters, "
+"they no longer need to give orders to their mounts, those anticipate them."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:37
+#: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:37
+msgid "prey crush"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:5
+msgid "Eagle Rider"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:20
+msgid ""
+"Some Aragwaithi youths take young eagles as a pet. These are not the common "
+"eagles, but a race of noble, giant birds of prey. When they are grown "
+"enough, they usually willing to serve as a mount for their best friend, and "
+"their young mates learn the art of riding these giant birds."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:5
+msgid "Flagbearer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:26
+msgid ""
+"Flagbearers are the leaders on the battlefield. They wield large banners to "
+"lead and inspire the soldiers. They are also skilled with the glaive, which "
+"makes them dangerous in combat too."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Greatbow.cfg:5
+msgid "Greatbow"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Greatbow.cfg:20
+msgid ""
+"Finally moving on from the dirk and dagger to the sword, the Greatbow is "
+"superior to the Strongbow in melee combat, but not as powerful as the "
+"Slayer. Their bow, however, is a masterpiece of military design. Several "
+"months are spent crafting a single bow, and each bow is crafted by the user, "
+"to his individual specifications. Due to the incredible strength required to "
+"pull these bows, anyone but the crafter who attempts to draw it could suffer "
+"serious injury."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guard, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Guard.cfg:5
+msgid "Guard"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guard, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Guard.cfg:26
+msgid ""
+"Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
+"mobility for the advantages of armor. Whether in ceremonial posts during "
+"peace, or on the battlefield in times of war, their role is always the same: "
+"defending the Warlock nobilty."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guardian, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Guardian.cfg:5
+msgid "Guardian"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Lancer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Lancer.cfg:5
+msgid "Lancer"
+msgstr ""
+
+#. [female]
+#: The_Aragwaithi/units/Aragwaith_Lancer.cfg:172
+msgid "female^Lancer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:5
+msgid "Longswordsman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:18
+msgid ""
+"While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of other "
+"races, the Aragwaithi reserve their own admiration for Longswordsmen. These "
+"warriors have become so adept at the arts of thrust and parry that they have "
+"adopted a longer blade than the Swordsmen, yet they are able to wield it "
+"with equal grace and skill."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:41
+#: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:78
+msgid "longsword"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Pikeman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Pikeman.cfg:5
+msgid "Pikeman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Scout, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Scout.cfg:5
+msgid "Scout"
+msgstr ""
+
+#. [female]
+#: The_Aragwaithi/units/Aragwaith_Scout.cfg:67
+msgid "female^Scout"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Shield_Guard.cfg:5
+msgid "Shield Guard"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Shield_Guard.cfg:28
+msgid ""
+"These warriors wear the old shields of their ancients. These ancients could "
+"hold the line in the great battles until the reinforcements arrived, but "
+"they paid a high price, not many survived the battle and many others died "
+"through their strong wounds. Now only the best warriors are allowed to carry "
+"these ancient shields to remind the world and to honor these brave man and "
+"their sacrifice."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Silver_Shield.cfg:5
+msgid "Silver Shield"
+msgstr ""
+
+#. [female]
+#: The_Aragwaithi/units/Aragwaith_Silver_Shield.cfg:279
+msgid "female^Silver Shield"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Slayer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Slayer.cfg:9
+msgid "Slayer"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Slayer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Slayer.cfg:24
+msgid ""
+"While improving only marginally on the power of their bow, the Slayer "
+"abandons the blade in favor of training with a glaive, improving his skills "
+"in hand-to-hand combat. He is not as rugged as others of comparable skill, "
+"but far deadlier."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:5
+msgid "female^Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:20
+msgid ""
+"The mighty Aragwaith Sorceresses are gracile like wind. They can confuse "
+"their oponents by standing in fron of them, seemingly defenseless; after the "
+"attacker hits, they notice their victim is behind them, ready to perform his "
+"own killing strike. On the battlefield these sorcerers are fearsome enemies; "
+"even their comrades keep an eye on them, carefully, from a safe distance. "
+"And so it happens that even the Royal orders of Wesnothian magi treat these "
+"noble lores with respect and caution."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Spearman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Spearman.cfg:5
+msgid "Spearman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Spearman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Spearman.cfg:19
+msgid ""
+"The less dextrous and stronger Aragwaith take up the spear. Useful in "
+"hunting, this weapon is also deadly on the battlefield. Many impetuous "
+"knights have found themselves or their mounts impaled on the point of an "
+"Aragwaithi spear."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Strongbow.cfg:5
+msgid "Strongbow"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Strongbow.cfg:18
+msgid ""
+"By wielding a stronger bow and training almost constantly, the Aragwaith "
+"Strongbow fires a far deadlier shot than the average archer. Their dirks are "
+"longer than the daggers used by the typical archer, and they wield them far "
+"more effectively."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:5
+msgid "Swordsmaster"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:19
+msgid ""
+"Swordmasters do not get their title from one day to another. They have "
+"endured years of rigorous Aragwaithi military training, and survived many "
+"ferocious battles. Their skill with their blades is spoken of with awe among "
+"those few foes who have witnessed it - and lived.\n"
+"\n"
+"Having earned their title, Swordmasters take responsibility for instructing "
+"the young, passing by generation on generation the proud Aragwaithi martial "
+"traditions."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Swordsman.cfg:5
+msgid "Swordsman"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Swordsman.cfg:19
+msgid ""
+"While the Aragwaithi are slight of body, they are also fast and nimble. "
+"These abilites, coupled with the intensive training given to the Aragwaith "
+"military, make for superb swordsmen. Swordsmen are clad in light chain mail "
+"- the better to resist the blades of their enemies."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Warlock, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Warlock.cfg:6
+msgid "female^Warlock"
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Warlock, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Warlock.cfg:80
+msgid ""
+"The magically inclined ones among the Aragwaith recieve not only the martial "
+"training so common in Aragwaithi society, but also in the art of healing, "
+"and of course in magic. Wielding powerful fire and possessing a healing "
+"touch, Warlocks are the noblest of a noble people."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Wizard, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Wizard.cfg:5
+msgid "female^Wizard"
+msgstr ""
+
+#. [attacks]: id=attack_only
+#: The_Aragwaithi/utils.cfg:16 The_Aragwaithi/utils.cfg:17
+msgid "attack only"
+msgstr ""
+
+#. [attacks]: id=attack_only
+#: The_Aragwaithi/utils.cfg:18 The_Aragwaithi/utils.cfg:20
+msgid ""
+"Attack only:\n"
+"This weapon will never be used on defense."
+msgstr ""
+
+#: The_Aragwaithi/utils.cfg:38
+msgid "protection"
+msgstr ""
+
+#: The_Aragwaithi/utils.cfg:39
+msgid ""
+"Protection:\n"
+"Adjacent units of level 1 or below from this side receive a +20% bonus to "
+"all resistances (up to a maximum of 50%)."
+msgstr ""
+
+#: The_Aragwaithi/utils.cfg:55
+msgid ""
+"This unit can protect those of level 0 and 1 around them, granting them "
+"extra resistances."
+msgstr ""
