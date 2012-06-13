@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-04 08:58-0400\n"
+"POT-Creation-Date: 2012-06-13 15:33-0400\n"
 "PO-Revision-Date: 2012-06-04 08:58-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -94,8 +94,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: The_Aragwaithi/units/Aragwaith_Captain.cfg:31
-#: The_Aragwaithi/units/Aragwaith_Captain.cfg:40
+#: The_Aragwaithi/units/Aragwaith_Captain.cfg:30
+#: The_Aragwaithi/units/Aragwaith_Captain.cfg:39
 #: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:31
 #: The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:40
 #: The_Aragwaithi/units/Aragwaith_Slayer.cfg:31
@@ -270,12 +270,12 @@ msgid ""
 "but far deadlier."
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:5
 msgid "female^Sorceress"
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:20
 msgid ""
 "The mighty Aragwaith Sorceresses are gracile like wind. They can confuse "
@@ -315,20 +315,20 @@ msgid ""
 "more effectively."
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:5
 msgid "Swordsmaster"
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:19
 msgid ""
-"Swordmasters do not get their title from one day to another. They have "
+"Swordsmasters do not get their title from one day to another. They have "
 "endured years of rigorous Aragwaithi military training, and survived many "
 "ferocious battles. Their skill with their blades is spoken of with awe among "
 "those few foes who have witnessed it - and lived.\n"
 "\n"
-"Having earned their title, Swordmasters take responsibility for instructing "
+"Having earned their title, Swordsmasters take responsibility for instructing "
 "the young, passing by generation on generation the proud Aragwaithi martial "
 "traditions."
 msgstr ""
@@ -359,6 +359,11 @@ msgid ""
 "training so common in Aragwaithi society, but also in the art of healing, "
 "and of course in magic. Wielding powerful fire and possessing a healing "
 "touch, Warlocks are the noblest of a noble people."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Aragwaithi/units/Aragwaith_Warlock.cfg:144
+msgid "kick"
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Wizard, race=aragwaith

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-04 08:58-0400\n"
+"POT-Creation-Date: 2012-06-13 15:33-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,7 +77,7 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: ./The_Aragwaithi/units/Aragwaith_Captain.cfg:31 ./The_Aragwaithi/units/Aragwaith_Captain.cfg:40 ./The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:31 ./The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:40 ./The_Aragwaithi/units/Aragwaith_Slayer.cfg:31
+#: ./The_Aragwaithi/units/Aragwaith_Captain.cfg:30 ./The_Aragwaithi/units/Aragwaith_Captain.cfg:39 ./The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:31 ./The_Aragwaithi/units/Aragwaith_Flagbearer.cfg:40 ./The_Aragwaithi/units/Aragwaith_Slayer.cfg:31
 msgid "glaive"
 msgstr ""
 
@@ -211,12 +211,12 @@ msgstr ""
 msgid "While improving only marginally on the power of their bow, the Slayer abandons the blade in favor of training with a glaive, improving his skills in hand-to-hand combat. He is not as rugged as others of comparable skill, but far deadlier."
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: ./The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:5
 msgid "female^Sorceress"
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Sorcerer, race=aragwaith
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: ./The_Aragwaithi/units/Aragwaith_Sorcerer.cfg:20
 msgid "The mighty Aragwaith Sorceresses are gracile like wind. They can confuse their oponents by standing in fron of them, seemingly defenseless; after the attacker hits, they notice their victim is behind them, ready to perform his own killing strike. On the battlefield these sorcerers are fearsome enemies; even their comrades keep an eye on them, carefully, from a safe distance. And so it happens that even the Royal orders of Wesnothian magi treat these noble lores with respect and caution."
 msgstr ""
@@ -241,17 +241,17 @@ msgstr ""
 msgid "By wielding a stronger bow and training almost constantly, the Aragwaith Strongbow fires a far deadlier shot than the average archer. Their dirks are longer than the daggers used by the typical archer, and they wield them far more effectively."
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: ./The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:5
 msgid "Swordsmaster"
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Swordmaster, race=aragwaith
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: ./The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:19
 msgid ""
-"Swordmasters do not get their title from one day to another. They have endured years of rigorous Aragwaithi military training, and survived many ferocious battles. Their skill with their blades is spoken of with awe among those few foes who have witnessed it - and lived.\n"
+"Swordsmasters do not get their title from one day to another. They have endured years of rigorous Aragwaithi military training, and survived many ferocious battles. Their skill with their blades is spoken of with awe among those few foes who have witnessed it - and lived.\n"
 "\n"
-"Having earned their title, Swordmasters take responsibility for instructing the young, passing by generation on generation the proud Aragwaithi martial traditions."
+"Having earned their title, Swordsmasters take responsibility for instructing the young, passing by generation on generation the proud Aragwaithi martial traditions."
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
@@ -272,6 +272,11 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Warlock, race=aragwaith
 #: ./The_Aragwaithi/units/Aragwaith_Warlock.cfg:80
 msgid "The magically inclined ones among the Aragwaith recieve not only the martial training so common in Aragwaithi society, but also in the art of healing, and of course in magic. Wielding powerful fire and possessing a healing touch, Warlocks are the noblest of a noble people."
+msgstr ""
+
+#. [attack]: type=impact
+#: ./The_Aragwaithi/units/Aragwaith_Warlock.cfg:144
+msgid "kick"
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Wizard, race=aragwaith
