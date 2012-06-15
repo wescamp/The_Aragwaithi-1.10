@@ -27,10 +27,22 @@ Version 1.0.2:
 - Re-added an old ability: Protection.
 - Made the faction translatable.
 
-Version 1.0.3
+Version 1.0.3:
 - Changed forest movement to 2 MP.
 
 - Corrected spelling mistakes. (BREAKS SCENARIOS USING THE SWORDSMASTER OR SORCERESS)
 - Fixed attacking sounds in the Warlock line.
 - Cleaned up the code.
 - Fixed a graphical bug when using the slayer.
+
+Version 1.0.4:
+- Archer: -1 damage melee
+
+- Fixed the animations of the Spearman, Longswordsman, Warlock and Wizard.
+
+Version 1.0.5:
+- Flagbearer: -1 damage melee, -10% impact resistance, -20% pierce resistance.
+- Captain: -10% pierce resistance.
+- Ancient Banner: -3 HP.
+- Guard: -1 damage melee, +2 HP.
+- Shield Guard: +3 HP.
