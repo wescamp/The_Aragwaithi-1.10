@@ -46,3 +46,17 @@ Version 1.0.5:
 - Ancient Banner: -3 HP.
 - Guard: -1 damage melee, +2 HP.
 - Shield Guard: +3 HP.
+- Eagle Rider: -1 damage melee claws, -10% mountain defence.
+- Scout: -1 HP.
+- Witch: +1 cost, +10 XP.
+
+- Renamed the Warlock to Witch. (BREAK SCENARIOS USING THE WARLOCK)
+
+Version 1.0.6:
+- Animation updates to the:
+	- Guardian
+	- Slayer
+	- Sorceress
+	- Spearman
+	- Swordsmaster
+ 	- Witch
