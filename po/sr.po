@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-14 22:47-0400\n"
+"POT-Creation-Date: 2012-07-11 15:32-0400\n"
 "PO-Revision-Date: 2012-06-04 08:58-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -119,7 +119,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: The_Aragwaithi/units/Aragwaith_Eagle_Master.cfg:37
-#: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:37
+#: The_Aragwaithi/units/Aragwaith_Eagle_Rider.cfg:34
 msgid "prey crush"
 msgstr ""
 
@@ -178,7 +178,7 @@ msgid ""
 "Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
 "mobility for the advantages of armor. Whether in ceremonial posts during "
 "peace, or on the battlefield in times of war, their role is always the same: "
-"defending the Warlock nobilty."
+"defending the Wizard nobility."
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Guardian, race=aragwaith
@@ -213,7 +213,7 @@ msgstr ""
 
 #. [attack]: type=blade
 #: The_Aragwaithi/units/Aragwaith_Longswordsman.cfg:26
-#: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:78
+#: The_Aragwaithi/units/Aragwaith_Swordmaster.cfg:77
 msgid "longsword"
 msgstr ""
 
@@ -283,10 +283,10 @@ msgid ""
 "The mighty Aragwaith Sorceresses are gracile like wind. They can confuse "
 "their oponents by standing in fron of them, seemingly defenseless; after the "
 "attacker hits, they notice their victim is behind them, ready to perform his "
-"own killing strike. On the battlefield these sorcerers are fearsome enemies; "
-"even their comrades keep an eye on them, carefully, from a safe distance. "
-"And so it happens that even the Royal orders of Wesnothian magi treat these "
-"noble lores with respect and caution."
+"own killing strike. On the battlefield these sorceresss are fearsome "
+"enemies; even their comrades keep an eye on them, carefully, from a safe "
+"distance. And so it happens that even the Royal orders of Wesnothian magi "
+"treat these noble lores with respect and caution."
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
@@ -349,22 +349,22 @@ msgid ""
 "- the better to resist the blades of their enemies."
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Warlock, race=aragwaith
-#: The_Aragwaithi/units/Aragwaith_Warlock.cfg:6
-msgid "female^Warlock"
+#. [unit_type]: id=Aragwaith Witch, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Witch.cfg:6
+msgid "female^Witch"
 msgstr ""
 
-#. [unit_type]: id=Aragwaith Warlock, race=aragwaith
-#: The_Aragwaithi/units/Aragwaith_Warlock.cfg:80
+#. [unit_type]: id=Aragwaith Witch, race=aragwaith
+#: The_Aragwaithi/units/Aragwaith_Witch.cfg:80
 msgid ""
 "The magically inclined ones among the Aragwaith recieve not only the martial "
 "training so common in Aragwaithi society, but also in the art of healing, "
 "and of course in magic. Wielding powerful fire and possessing a healing "
-"touch, Warlocks are the noblest of a noble people."
+"touch, witchs are the noblest of a noble people."
 msgstr ""
 
 #. [attack]: type=impact
-#: The_Aragwaithi/units/Aragwaith_Warlock.cfg:144
+#: The_Aragwaithi/units/Aragwaith_Witch.cfg:129
 msgid "kick"
 msgstr ""
 
