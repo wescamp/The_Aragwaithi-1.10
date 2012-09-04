@@ -60,3 +60,6 @@ Version 1.0.6:
 	- Spearman
 	- Swordsmaster
  	- Witch
+
+Version 1.0.7:
+- Changes to the dependancy system.
