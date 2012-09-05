@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-11 15:32-0400\n"
+"POT-Creation-Date: 2012-09-04 21:03-0400\n"
 "PO-Revision-Date: 2012-06-04 08:58-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -374,29 +374,29 @@ msgid "female^Wizard"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: The_Aragwaithi/utils.cfg:16 The_Aragwaithi/utils.cfg:17
+#: The_Aragwaithi/utils.cfg:6 The_Aragwaithi/utils.cfg:7
 msgid "attack only"
 msgstr ""
 
 #. [attacks]: id=attack_only
-#: The_Aragwaithi/utils.cfg:18 The_Aragwaithi/utils.cfg:20
+#: The_Aragwaithi/utils.cfg:8 The_Aragwaithi/utils.cfg:10
 msgid ""
 "Attack only:\n"
 "This weapon will never be used on defense."
 msgstr ""
 
-#: The_Aragwaithi/utils.cfg:38
+#: The_Aragwaithi/utils.cfg:28
 msgid "protection"
 msgstr ""
 
-#: The_Aragwaithi/utils.cfg:39
+#: The_Aragwaithi/utils.cfg:29
 msgid ""
 "Protection:\n"
 "Adjacent units of level 1 or below from this side receive a +20% bonus to "
 "all resistances (up to a maximum of 50%)."
 msgstr ""
 
-#: The_Aragwaithi/utils.cfg:55
+#: The_Aragwaithi/utils.cfg:45
 msgid ""
 "This unit can protect those of level 0 and 1 around them, granting them "
 "extra resistances."
