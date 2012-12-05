@@ -63,3 +63,8 @@ Version 1.0.6:
 
 Version 1.0.7:
 - Changes to the dependancy system.
+
+Version 1.0.8:
+- Archer: +2 HP.
+- Guard: +10 XP.
+- More animation fixes.
